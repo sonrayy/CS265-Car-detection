@@ -1,2 +1,3 @@
 # CS265-Car-detection
-AI project
+This is an AI project.
+
